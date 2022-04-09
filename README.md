@@ -3,9 +3,6 @@
 
 
 
-<p align="right">📍 &nbsp; Munich, Bavaria <br>
-<img width="16px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/480px-Telegram_logo.svg.png" /> @flyingDutchman</p>
-
 🌠  &nbsp; Physics Background<br>
 ⛓️ &nbsp; Blockchain Industry <br>
 🦴 &nbsp; Barebone Developer <br>
